@@ -1,0 +1,12 @@
+{
+	"testEmail": "test@twoday.com",
+	"testFirstName": "Junior",
+	"testLastName": "Developer",
+	"testCompany": "Twoday",
+	"testAddress": "Zalgirio g. 4",
+	"testCity": "Kaunas",
+	"testCountry": "Lithuania",
+	"testState": "Kauno Apskritis",
+	"testZip": "12345",
+	"testPhone": "+37064771693"
+}
